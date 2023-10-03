@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @h-cassel
+- 👀 I’m interested in coding/programming/software development
+- 🌱 I’m currently learning Python
